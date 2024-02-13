@@ -9,4 +9,7 @@ column name :- 'Loan_ID', 'Gender', 'Married', 'Dependents', 'Education',
 Loaded the dataset and displayed initial information.
 Checked descriptive statistics and general information.
 Examined and handled missing values.
-Data Cleaning:
+Data Cleaning
+univariate bi-variate analysis
+use of Logestic Regression,Randoforest,Xgboost method
+Find Probability of model
